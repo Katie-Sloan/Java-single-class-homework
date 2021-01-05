@@ -10,6 +10,8 @@ public class Calculator {
     public int subtract(int a, int b) { return this.total + a - b; }
 
     public int multiply(int a, int b) { return this.total + a * b; }
+
+    public double divide(double a, double b) { return this.total + a / b; }
 }
 
 
